@@ -1,0 +1,18 @@
+.container{
+	display: flex;
+}
+.left-column{
+	fle: 2;
+	padding:10px;
+	border: 1px solid #ccc;
+	width: 40%;
+	
+	
+}
+.right-column{
+	fle: 1;
+	padding:10px;
+	border: 1px solid #ccc;
+	width: 60%;
+	
+}
